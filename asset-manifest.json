@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/lc-graph-visualisation/static/js/main.f2a19eab.js",
+    "index.html": "/lc-graph-visualisation/index.html",
+    "main.f2a19eab.js.map": "/lc-graph-visualisation/static/js/main.f2a19eab.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f2a19eab.js"
+  ]
+}
